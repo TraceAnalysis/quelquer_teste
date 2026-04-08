@@ -236,6 +236,10 @@ section {
   color: var(--text);
 }
 
+.hero-buttons .btn {
+  min-width: 180px;
+}
+
 .hero-section {
   position: relative;
   overflow: hidden;
